@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "racket-sensor-db",
+                    "appId": "1:1051521106036:android:2358d998f40924b0015121",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "racket-sensor-db",
+                    "configurations": {
+                        "android": "1:1051521106036:android:2358d998f40924b0015121",
+                        "ios": "1:1051521106036:ios:d072b950e135252e015121",
+                        "macos": "1:1051521106036:ios:d072b950e135252e015121",
+                        "web": "1:1051521106036:web:0aced96151a06a88015121",
+                        "windows": "1:1051521106036:web:ad3e80359e753ca7015121"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1051521106036",
+    "firebase_url": "https://racket-sensor-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "racket-sensor-db",
+    "storage_bucket": "racket-sensor-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051521106036:android:c2ba7770d4ae0beb015121",
+        "android_client_info": {
+          "package_name": "com.example.iot_imu_ble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUbu6c8S4DHRzsAXmkS2g6sXd899PA80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051521106036:android:2358d998f40924b0015121",
+        "android_client_info": {
+          "package_name": "com.nckuaigp.smartracket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUbu6c8S4DHRzsAXmkS2g6sXd899PA80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
