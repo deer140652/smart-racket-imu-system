@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCFTxv71A3DiKxIdW_HnWhTjN8lOjurFhk',
+    apiKey: '',
     appId: '1:1051521106036:ios:d072b950e135252e015121',
     messagingSenderId: '1051521106036',
     projectId: 'racket-sensor-db',
