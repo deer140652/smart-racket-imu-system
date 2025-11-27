@@ -10,7 +10,7 @@
 - 手機端 Edge AI 推論整合
 - 完整資料流程設計：
 
-      <img src="assets/flow_chart.png" width="500">
+  <img src="assets/flow_chart.png" width="500">
 ---
 
 ## App 頁面
