@@ -1,4 +1,4 @@
-# 🏸 智慧羽球拍IMU系統（Smart Racket IMU System）
+# 智慧羽球拍IMU系統（Smart Racket IMU System）
 
 本專案為智慧羽球拍 IMU 資料蒐集、雲端儲存與動作分析系統。
 
@@ -10,7 +10,7 @@
 - 手機端 Edge AI 推論整合
 - 完整資料流程設計：
 
-  <img src="assets/flow_chart.png" width="500">
+  <img src="assets/flow.png" width="350">
 ---
 
 ## App 頁面
