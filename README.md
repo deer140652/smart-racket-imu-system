@@ -9,14 +9,14 @@
 - Python CNN 模型訓練與 TFLite 模型導出
 - 手機端 Edge AI 推論整合
 - 完整資料流程設計：
-      <img src="assets/flow_chart.png" width="500">
+-      <img src="assets/flow_chart.png" width="500">
 ---
 
 ## App 頁面
 
 | BLE 掃描頁 | IMU 即時資料頁 | 上傳控制 |
 |------------|----------------|----------|
-| <img src="assets/app_ble_scan.jpg" width="350"> | <img src="assets/app_ble_scan.jpg" width="350">     | <img src="assets/app_ble_scan.jpg" width="350"> |
+| <img src="assets/app_ble_scan.jpg" width="350"> | <img src="assets/imu_realtime.jpg" width="350">     | <img src="assets/imu_upload_status.jpg" width="350"> |
 
 ---
 
